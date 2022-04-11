@@ -19,7 +19,7 @@
  *
  *
  * Authors:
- * Jean-Christophe Taveau
+ * Jean-Christophe Taveau, Léa Chabot, Bluwen Guidoux D'Halluin, Fatoumata Mangane, Louis Texier
  */
 
 'use strict';
